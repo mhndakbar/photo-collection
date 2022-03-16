@@ -1,24 +1,23 @@
-# README
+# Photo collection API
+> This project is part of Sprints Backend bootcamp.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tools :-
+- RoR
+- REST API
 
-Things you may want to cover:
+## Functions :-
+- POST/GET/DELETE users
+- POST/GET/DELETE photos
+- POST/GET/DELETE venues
 
-* Ruby version
+## Screenshots :-
 
-* System dependencies
+<img src="/screenshots/1.png" alt="att" width="200"/>
+<img src="/screenshots/2.png" alt="att" width="200"/>
+<img src="/screenshots/3.png" alt="att" width="200"/>
+<img src="/screenshots/4.png" alt="att" width="200"/>
+<img src="/screenshots/5.png" alt="att" width="200"/>
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
